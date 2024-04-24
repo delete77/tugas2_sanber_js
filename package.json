@@ -1,0 +1,14 @@
+{
+  "name": "tugas2_sanber_js",
+  "version": "1.0.0",
+  "description": "Tugas pekanan 2 sanbercode javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tugasno1.js"
+  },
+  "author": "Cahyo Eko",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
